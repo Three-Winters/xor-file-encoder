@@ -1,0 +1,1 @@
+A simple lisp script for XOR encoding an entire file and rewriting it encoded/decoded somewhere else. I must stress that this script is mostly for decoding files people decide to XOR encode; XOR encoding is not a secure means of encryption, unless your key size is the same size as your data, which will likely quickly become unreasonable.
